@@ -5,10 +5,10 @@ It runs entirely on your VPS with **no need for GitHub Actions** or paid service
 
 ## ✅ Planned Features
 
-- Zero-downtime deployments via GitHub push events
-- GitHub webhook listener
-- Simple config file (`deploy.yaml`)
-- Runs on any Linux VPS
-- Fast & lightweight
-- Logs, rollback (coming soon), and notifications (soon)
+- [] Zero-downtime deployments via GitHub push events
+- [] GitHub webhook listener
+- [] Simple config file (`deploy.yaml`)
+- [] Runs on any Linux VPS
+- [] Fast & lightweight
+- [] Logs, rollback (coming soon), and notifications (soon)
 
