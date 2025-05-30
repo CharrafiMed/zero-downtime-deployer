@@ -1,4 +1,4 @@
-# 🚀 Zero Downtime Deployer
+# Zero Downtime Deployer (In Progress)
 
 This is a free, server-side deployment tool designed for **zero downtime deployment** using **GitHub webhooks**.  
 It runs entirely on your VPS with **no need for GitHub Actions** or paid services.
